@@ -1,0 +1,2 @@
+# zencii.json
+"aliparsuyar" . "Aliparsuyar"
